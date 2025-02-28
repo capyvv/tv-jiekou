@@ -1,0 +1,27 @@
+ 
+{ "urls": [ 
+  
+{ "url": "http://肥猫.com", "name": "🐼肥猫" }, 
+ 
+ { "url": "http://www.饭太硬.com/tv/", "name": "🍚饭太硬" }, 
+  
+  
+{ "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/", "name": "王二小" }, 
+ 
+ { "url": "http://bp.tvbox.cam/", "name": "小白" }, 
+  
+ { "url": " http://drpy.site/js1/", "name": "小雅" }, 
+
+{ "url": "https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json", "name": "🍚小米" }, 
+ 
+ { "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "南风" }, 
+ 
+{ "url": "http://like.肥猫.com/你好", "name": "🐼肥猫备用1" }, 
+
+{ "url": "http://肥猫.live/", "name": "🐼肥猫备用2" }, 
+
+
+{ "url": "http://我不是.肥猫.live/接口禁止贩卖", "name": "🐼肥猫备用3" } 
+ 
+ 
+]} 

@@ -1,26 +1,26 @@
  
 { "urls": [ 
   
-{ "url": "http://肥猫.com", "name": "🐼肥猫" }, 
+ { "url": "http://ceshi.肥猫.com/PandaQ", "name": "🐼肥猫" }, 
  
-{ "url": "http://www.饭太硬.com/tv", "name": "🍚饭太硬" }, 
+ { "url": "http://www.饭太硬.com/tv", "name": "🍚饭太硬" }, 
 
-{ "url": "https://mpanso.me/DEMO.json", "name": "🍚小米" }, 
+ { "url": "https://mpanso.me/DEMO.json", "name": "🍚小米" }, 
   
-{ "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/", "name": "王二小" }, 
- 
+ { "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top//", "name": "王二小" }, 
+
+ { "url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json", "name": "南风" }, 
+
+ { "url": "https://tvbox.cainisi.c", "name": "莱妮丝" }, 
+
+ { "url": "http://drpy.site/js1/", "name": "小雅" }, 
+
  { "url": "http://bp.tvbox.cam/", "name": "小白" }, 
-  
- { "url": " http://drpy.site/js1/", "name": "小雅" }, 
-
-
  
- { "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "南风" }, 
  
 { "url": "http://like.肥猫.com/你好", "name": "🐼肥猫备用1" }, 
 
-{ "url": "http://肥猫.live/", "name": "🐼肥猫备用2" }, 
-
+{ "url": "http://http://肥猫.com", "name": "🐼肥猫备用2" }, 
 
 { "url": "http://我不是.肥猫.live/接口禁止贩卖", "name": "🐼肥猫备用3" } 
  
